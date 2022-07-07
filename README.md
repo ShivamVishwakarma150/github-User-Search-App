@@ -5,5 +5,3 @@ then reload the page and it works correctly. :)
 
 
 
-<a href="https://shivamvishwakarma150.github.io/github-search-user/">
-Visit Here :- <a href="https://shivamvishwakarma150.github.io/github-search-user/">Click Me</a>
