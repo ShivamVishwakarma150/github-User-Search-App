@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/guthub-search-user/static/css/main.50dd0bfa.css",
+    "main.js": "/guthub-search-user/static/js/main.dc69528c.js",
+    "static/media/fa-brands-400.svg": "/guthub-search-user/static/media/fa-brands-400.a58f7f4cdcc622e4db52.svg",
+    "static/media/fa-solid-900.svg": "/guthub-search-user/static/media/fa-solid-900.807e237e9b50354cb9c4.svg",
+    "static/media/fa-regular-400.svg": "/guthub-search-user/static/media/fa-regular-400.cbb5c1d6ad8d403dbdab.svg",
+    "static/media/fa-solid-900.eot": "/guthub-search-user/static/media/fa-solid-900.5e5c6e52c3289c071206.eot",
+    "static/media/fa-solid-900.ttf": "/guthub-search-user/static/media/fa-solid-900.ea6ccb0dc20e72ccb923.ttf",
+    "static/media/fa-brands-400.eot": "/guthub-search-user/static/media/fa-brands-400.6ebfb17a95aa295577ec.eot",
+    "static/media/fa-brands-400.ttf": "/guthub-search-user/static/media/fa-brands-400.a7bf6b7759f86ac8ab22.ttf",
+    "static/media/fa-brands-400.woff": "/guthub-search-user/static/media/fa-brands-400.46142272595f54bbf2a8.woff",
+    "static/media/fa-brands-400.woff2": "/guthub-search-user/static/media/fa-brands-400.6563814eb8bcc493b26b.woff2",
+    "static/media/fa-solid-900.woff": "/guthub-search-user/static/media/fa-solid-900.0fc3f8c7cad2187d9207.woff",
+    "static/media/fa-solid-900.woff2": "/guthub-search-user/static/media/fa-solid-900.ea995b6e6d0be9cd4319.woff2",
+    "static/media/fa-regular-400.eot": "/guthub-search-user/static/media/fa-regular-400.2a7d0e44341b33eeecc9.eot",
+    "static/media/fa-regular-400.ttf": "/guthub-search-user/static/media/fa-regular-400.c9b43a4f514ced1ea620.ttf",
+    "static/media/fa-regular-400.woff": "/guthub-search-user/static/media/fa-regular-400.9532d08bbce0c72d8138.woff",
+    "static/media/fa-regular-400.woff2": "/guthub-search-user/static/media/fa-regular-400.4e988e05601bf81ee2b0.woff2",
+    "index.html": "/guthub-search-user/index.html",
+    "static/media/arrow_left.svg": "/guthub-search-user/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
+    "static/media/arrow_right.svg": "/guthub-search-user/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg",
+    "main.50dd0bfa.css.map": "/guthub-search-user/static/css/main.50dd0bfa.css.map",
+    "main.dc69528c.js.map": "/guthub-search-user/static/js/main.dc69528c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50dd0bfa.css",
+    "static/js/main.dc69528c.js"
+  ]
+}
