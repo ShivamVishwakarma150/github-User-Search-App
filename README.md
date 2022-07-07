@@ -7,5 +7,5 @@ then reload the page and it works correctly. :)
 
 
 
-Visit Here :- <a href="https://github-profile-search-v1.herokuapp.com/">Click Me</a>
+Visit Here :- <a href="https://github-profile-search-v1.herokuapp.com/" target="_blank">Click Me</a>
 
